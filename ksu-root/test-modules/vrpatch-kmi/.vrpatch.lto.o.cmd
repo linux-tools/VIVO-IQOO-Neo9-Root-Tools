@@ -1,0 +1,1 @@
+cmd_/home/dengxiang/VIVO-IQOO-Neo9-Root-Tools/ksu-root/test-modules/vrpatch-kmi/vrpatch.lto.o := ld.lld -EL  -maarch64elf -z norelro -mllvm -import-instr-limit=5 -z noexecstack   -r -o /home/dengxiang/VIVO-IQOO-Neo9-Root-Tools/ksu-root/test-modules/vrpatch-kmi/vrpatch.lto.o  --whole-archive /home/dengxiang/VIVO-IQOO-Neo9-Root-Tools/ksu-root/test-modules/vrpatch-kmi/vrpatch.o

@@ -1,0 +1,1 @@
+cmd_/home/dengxiang/VIVO-IQOO-Neo9-Root-Tools/ksu-root/test-modules/vrpatch-kmi/vrpatch.mod := printf '%s\n'   vrpatch.o | awk '!x[$$0]++ { print("/home/dengxiang/VIVO-IQOO-Neo9-Root-Tools/ksu-root/test-modules/vrpatch-kmi/"$$0) }' > /home/dengxiang/VIVO-IQOO-Neo9-Root-Tools/ksu-root/test-modules/vrpatch-kmi/vrpatch.mod

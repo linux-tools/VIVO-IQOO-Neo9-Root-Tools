@@ -1,0 +1,1 @@
+cmd_/home/dengxiang/VIVO-IQOO-Neo9-Root-Tools/ksu-root/test-modules/vrpatch-kmi/modules.order := {   echo /home/dengxiang/VIVO-IQOO-Neo9-Root-Tools/ksu-root/test-modules/vrpatch-kmi/vrpatch.ko; :; } | awk '!x[$$0]++' - > /home/dengxiang/VIVO-IQOO-Neo9-Root-Tools/ksu-root/test-modules/vrpatch-kmi/modules.order
